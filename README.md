@@ -2,5 +2,5 @@
 
 ## Working with JSON in XProc 3.0 (2020-06-16)
 - [Slides](XProcJSon.pdf)
-- XProc examples
+- [XProc examples](XProcJSon_examples.zip)
 - Sources of swapi.dev on GitHub[https://github.com/Juriy/swapi]
