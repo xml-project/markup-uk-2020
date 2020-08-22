@@ -8,4 +8,4 @@
 
 ## Working with text documents in XProc 3.0 (2020-06-22)
 - [Slides](XProcText.pdf)
-- [XProc examples](XProcText_examples.zip) To download the zip, please click on the link and then thi the button "Download" on the newly opened page.
+- [XProc examples](XProcText_examples.zip) To download the zip, please click on the link and then hit the button "Download" on the newly opened page.
